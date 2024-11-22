@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    font-family: 'poppins',sans-serif;
+    background-color: darkorchid;
+}
+.titlebar{
+    color:white;
+    text-align: center;
+    padding: 10px;
+}
+
