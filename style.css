@@ -5,11 +5,10 @@
 
 body{
     font-family: 'poppins',sans-serif;
-    background-color: darkorchid;
+    background-color: black;
 }
 .titlebar{
     color:white;
     text-align: center;
     padding: 10px;
 }
-
