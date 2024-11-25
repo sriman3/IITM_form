@@ -18,13 +18,12 @@ body{
     flex-wrap: wrap;
     justify-content: space-around;
 
-
-
-}
+ }
 
 .container div{
 
     width: 200px;
     color:white;
     margin: 10px;
+    flex-basis: 20%;
 }
