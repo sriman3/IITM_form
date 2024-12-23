@@ -24,4 +24,4 @@ permalink: /people/ccstaff
 {: .table .table-striped}
 | Name                     | Position                 | Phone Number    | Username     | Department     |
 |--------------------------|--------------------------|-----------------|--------------|----------------|
-| Mr. Sundar C S           | Jr. Supdt                | 4975            | cssundar     | CCOffice       |
+| Mr .Prabhakarn V         |Senior Assistant          | 4975            |prabav        | CCOffice       |
